@@ -62,7 +62,7 @@ class MenuListContainer extends Component {
     } = this.props;
     let boundingRect = this.itemRef.getBoundingClientRect();
     let top = 0;
-    let left = rect.left;
+    let left = rect ? rect.left : 0;
 
     if (submenu) {
       let parentRect = parentRef.getBoundingClientRect();    
