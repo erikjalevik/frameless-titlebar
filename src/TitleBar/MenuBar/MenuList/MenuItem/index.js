@@ -15,7 +15,7 @@ const styles = {
     cursor: 'default',
   },
   Wrapper: {
-    fontSize: 12,
+    fontSize: 13,
     padding: '0px 10px',
     height: '30px',
     color: 'inherit',

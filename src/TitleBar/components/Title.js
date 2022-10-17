@@ -3,7 +3,7 @@ import React from 'react';
 const styles = {
   Title: {
     flex: '0 1 auto',
-    fontSize: '12px',
+    fontSize: '13px',
     overflow: 'hidden',
     whiteSpace: 'nowrap',
     textOverflow: 'ellipsis',

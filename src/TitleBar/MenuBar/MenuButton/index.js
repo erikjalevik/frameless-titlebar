@@ -31,7 +31,7 @@ const styles = {
     padding: 0,
     height: '100%',
     width: '100%',
-    fontSize: 12,
+    fontSize: 13,
     paddingLeft: 10,
     paddingRight: 10,
     boxSizing: 'border-box',

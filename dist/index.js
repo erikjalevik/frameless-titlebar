@@ -238,7 +238,7 @@ var styles = {
     padding: 0,
     height: '100%',
     width: '100%',
-    fontSize: 12,
+    fontSize: 13,
     paddingLeft: 10,
     paddingRight: 10,
     boxSizing: 'border-box'
@@ -644,7 +644,7 @@ var styles$1 = {
     cursor: 'default'
   },
   Wrapper: {
-    fontSize: 12,
+    fontSize: 13,
     padding: '0px 10px',
     height: '30px',
     color: 'inherit',
@@ -1983,7 +1983,7 @@ var styles$5 = {
     flexShrink: 0,
     display: 'flex',
     flexDirection: 'row',
-    fontSize: '12px',
+    fontSize: '13px',
     WebkitAppRegion: 'drag',
     userSelect: 'none',
     alignItems: 'center',
@@ -2049,7 +2049,7 @@ Bar.defaultProps = {
 var styles$6 = {
   Title: {
     flex: '0 1 auto',
-    fontSize: '12px',
+    fontSize: '13px',
     overflow: 'hidden',
     whiteSpace: 'nowrap',
     textOverflow: 'ellipsis'

@@ -7,7 +7,7 @@ const styles = {
     flexShrink: 0,
     display: 'flex',
     flexDirection: 'row',
-    fontSize: '12px',
+    fontSize: '13px',
     WebkitAppRegion: 'drag',
     userSelect: 'none',
     alignItems: 'center',
